@@ -1,0 +1,19 @@
+body{
+    font-size: 25px;
+}
+
+
+input{
+    width: 100%;
+    height: 40px;
+    background: transparent;
+    border: 5px solid gray;
+    color: black;
+    font-size: 22px;
+    box-shadow: inset;
+}
+p{
+    width: auto;
+    font-size: 25px;
+    
+}

@@ -1,0 +1,33 @@
+body{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+  }
+  .btn1{
+    width: 70px;
+    height: 70px;
+    background-color: transparent;
+    border: 3px solid black;
+    outline: 0;
+    cursor: pointer;
+    font-size: 40px;
+   
+  }
+  .btn2{
+    width: 70px;
+    height: 70px;
+    background-color: transparent;
+    border: 3px solid black;
+    outline: 0;
+    cursor: pointer;
+    font-size: 40px;
+   
+  }
+  span{
+    font-size: 35px;
+    margin: 10px;
+  }
+  
+  
